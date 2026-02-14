@@ -3,7 +3,7 @@
     "wake_word": "Sir David",
     "author": "custom",
     "website": "",
-    "model": "sir_david.tflite",
+    "model": "https://raw.githubusercontent.com/MarcusLindvarn/sirdave/main/sir_david.tflite",
     "trained_languages": ["en"],
     "version": 2,
     "micro": {
