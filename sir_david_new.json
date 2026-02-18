@@ -2,7 +2,7 @@
   "type": "micro",
   "wake_word": "Sir David",
   "author": "custom",
-  "model": "sir_david.tflite",
+  "model": "sir_david_new.tflite",
   "trained_languages": [
     "en"
   ],
